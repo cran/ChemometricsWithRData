@@ -12,9 +12,9 @@ variables. }
 \usage{data(prostate)}
 \source{R package msProstate.}
 \examples{
-data(Prostate2000Raw, package = "msProstate")
-plot(Prostate2000Raw$mz, Prostate2000Raw$intensity[,1],
-     type = "h", xlab = "m/z", ylab = "Intensity",
+data(prostate)
+mz <- as.numeric(colnames(prostate))
+plot(mz, prostate[1,], type = "h", xlab = "m/z", ylab = "Intensity",
      main = "Prostate data")
 }
 \keyword{datasets}
