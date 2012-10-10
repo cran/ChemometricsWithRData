@@ -20,7 +20,10 @@ Original matlab data files obtained from
 \url{http://www.ub.edu/mcr/web_mcr/download_dataHPLC.html} (bdataset.zip).
 }
 \references{
-R. Tauler, S. Lacorte and D. Barcelo. "Application of multivariate curve
+  R. Wehrens. "Chemometrics with R - Multivariate Data Analysis in the
+  Natural Sciences and Life Sciences". Springer, Heidelberg, 2011.
+
+  R. Tauler, S. Lacorte and D. Barcelo. "Application of multivariate curve
 self-modeling curve resolution for the quantitation of trace levels of
 organophosphorous pesticides in natural waters from interlaboratory
 studies". J. of Chromatogr. A, 730, 177-183 (1996).

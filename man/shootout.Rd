@@ -18,6 +18,10 @@
   the optimal way to transfer a calibration model of the first
   instrument to the second.
 }
+\references{
+  R. Wehrens. "Chemometrics with R - Multivariate Data Analysis in the
+  Natural Sciences and Life Sciences". Springer, Heidelberg, 2011.
+}
 \source{http://www.idrc-chambersburg.org/shootout2002.html}
 \examples{
 data(shootout)
